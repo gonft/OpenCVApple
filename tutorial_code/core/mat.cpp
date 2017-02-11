@@ -1,5 +1,5 @@
 //
-//  main.cpp
+// mat.cpp
 //  opencv-tutorial
 //
 //  Created by Jaeyong Han on 2017. 2. 11..
